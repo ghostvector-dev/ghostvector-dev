@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ghost%20Vector&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Fintech%20%26%20Core%20Banking&descAlignY=60&descSize=18" width="100%" alt="Ghost Vector banner"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Migrating+Oracle+%E2%86%92+PostgreSQL;Building+tooling+nobody+asked+for+(but+everyone+uses);Arguing+with+legacy+schemas+since+day+one" alt="Typing animation"/>
 </a>
