@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Migrating+Oracle+%E2%86%92+PostgreSQL;Building+tooling+nobody+asked+for+(but+everyone+uses);Arguing+with+legacy+schemas+since+day+one" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Ghost+Vector+dev;Migrating+Oracle+%E2%86%92+PostgreSQL;Arguing+with+legacy+schemas+since+day+one" alt="Typing animation"/>
 </a>
 
 <br/>
